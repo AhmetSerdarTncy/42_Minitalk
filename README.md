@@ -81,7 +81,7 @@ cd 42_Minitalk</code></pre>
         <h2 id="öğrenilenler">Öğrenilenler</h2>
         <p>Bu proje sayesinde Unix sinyallerinin kullanımı, süreçler arası iletişim ve düşük seviyeli programlama konularında deneyim kazanılmıştır. Ayrıca, basit bir istemci-sunucu mimarisi tasarlamak ve uygulamak konusunda pratik yapılmıştır.</p>
         <h2 id="yazar">Yazar</h2>
-        <p><strong>Ahmet Serdar Tunçyürek</strong></p>
+        <p><strong>Ahmet Serdar Tunçay</strong></p>
         <ul>
             <li>GitHub: <a href="https://github.com/AhmetSerdarTncy">AhmetSerdarTncy</a></li>
         </ul>
