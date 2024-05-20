@@ -79,4 +79,12 @@ cd 42_Minitalk</code></pre>
             <li><strong>Hata Yönetimi</strong>: Geçersiz PID veya diğer hata durumları için uygun hata mesajları görüntülenir.</li>
         </ul>
         <h2 id="öğrenilenler">Öğrenilenler</h2>
-        <p>Bu proje sayesinde Unix sinyallerinin kullanımı, süreçler arası iletişim ve düşük seviyeli programlama konularında deneyim kazanılmıştır. Ayrıca, basit bir istemci-sunucu
+        <p>Bu proje sayesinde Unix sinyallerinin kullanımı, süreçler arası iletişim ve düşük seviyeli programlama konularında deneyim kazanılmıştır. Ayrıca, basit bir istemci-sunucu mimarisi tasarlamak ve uygulamak konusunda pratik yapılmıştır.</p>
+        <h2 id="yazar">Yazar</h2>
+        <p><strong>Ahmet Serdar Tunçyürek</strong></p>
+        <ul>
+            <li>GitHub: <a href="https://github.com/AhmetSerdarTncy">AhmetSerdarTncy</a></li>
+        </ul>
+    </div>
+</body>
+</html>
