@@ -1,4 +1,37 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>42 Minitalk</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        h1, h2, h3, h4 {
+            color: #333;
+        }
+        code {
+            background-color: #f4f4f4;
+            padding: 2px 4px;
+            border-radius: 4px;
+        }
+        pre {
+            background-color: #f4f4f4;
+            padding: 10px;
+            border-radius: 4px;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+        a {
+            color: #0066cc;
+        }
+    </style>
+</head>
+<body>
     <div class="container">
         <h1>42 Minitalk</h1>
         <h2>Proje Açıklaması</h2>
